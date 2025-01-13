@@ -1,5 +1,5 @@
 # GESTION DES LIVRES D'UNE BIBLIOTHEQUE
-Ce projet facilite la bonne gestion des livres pour les utilisateurs
+Ce projet a pour objectif d'assurer et faciliter la bonne gestion des livres d'une bibliothèque.
 
 ## fonctionnnalités
 - Ajouter un livre
