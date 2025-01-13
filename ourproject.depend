@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1736612706 source:c:\users\dell\onedrive - ecole marocaine des sciences de l'ingénieur\bureau\micro projet\ourproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+	"fonctions.c"
+
+1736612284 c:\users\dell\onedrive - ecole marocaine des sciences de l'ingénieur\bureau\micro projet\ourproject\fonctions.h
+
+1736616891 c:\users\dell\onedrive - ecole marocaine des sciences de l'ingénieur\bureau\micro projet\ourproject\fonctions.c
+
